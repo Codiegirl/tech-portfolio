@@ -3,10 +3,7 @@ id: about
 title: About
 ---
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
+I'm Rochell, a Developer
 
 1. Your current position
 1. Organizations you're involved with
@@ -23,7 +20,7 @@ Grace Hopper Celebration Attendee
 
 ## Recognition
 
-- 2020 Awesome Woman in Technology Award
+- 2020 Bootcamp Scholar
 
 ## Social Media
 
